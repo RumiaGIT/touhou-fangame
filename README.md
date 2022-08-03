@@ -1,4 +1,4 @@
-# TouhouFangame
+# Touhou Fangame
 Poorly put together Touhou fangame made while fooling around with C++, back in 2018.
 Will probably (most likely (definitely)) not run on another machine.
 
